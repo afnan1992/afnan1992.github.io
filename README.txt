@@ -1,3 +1,2 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/afnan1992/pen/xwGQPm.
-
- 
+My personal portfolio webpage.
+It contains the source code for css and js files as well.
